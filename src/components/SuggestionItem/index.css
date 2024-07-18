@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.inner-list {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.arrow {
+  height: 5vh;
+  width: 5vw;
+  padding: 5px;
+}
+.list-heading {
+  font-size: 15px;
+}
